@@ -161,6 +161,54 @@ HTTP header.
 
 ---
 
+# 📱 Application Screenshots
+
+## 📝 Text-to-Emoji
+
+Users can enter text and get the corresponding emoji prediction.
+
+![Text to Emoji](https://github.com/RutujaWarkhade/VoiceBridge/blob/main/Images/Text_To_Emoji.png?raw=true)
+
+---
+
+## 🎤 Live Speech-to-Text
+
+Users can record speech using the microphone and convert it into text.
+
+![Live Speech to Text](https://github.com/RutujaWarkhade/VoiceBridge/blob/main/Images/Live_Speech_to_Text.png?raw=true)
+
+---
+
+## 📁 Audio File Upload
+
+Users can upload an audio file for speech recognition and emoji prediction.
+
+![Audio File Upload](https://github.com/RutujaWarkhade/VoiceBridge/blob/main/Images/Audio_File_Upload.png?raw=true)
+
+---
+
+## 😊 Audio-to-Emoji
+
+The recognized speech from an uploaded audio file is converted into a meaningful emoji.
+
+![Audio to Emojis](https://github.com/RutujaWarkhade/VoiceBridge/blob/main/Images/Audio_to_Emojis.png?raw=true)
+
+---
+
+## 🔊 Text-to-Speech
+
+Users can convert text or emojis into spoken audio.
+
+![Text to Speech](https://github.com/RutujaWarkhade/VoiceBridge/blob/main/Images/Text_to_Speech.png?raw=true)
+
+---
+
+## 📜 Prediction History
+
+Users can view their previous text and emoji predictions.
+
+![Prediction History](https://github.com/RutujaWarkhade/VoiceBridge/blob/main/Images/Prediction_History.png?raw=true)
+
 # 🏗️ System Architecture
 
 ```text
