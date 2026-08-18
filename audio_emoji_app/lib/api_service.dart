@@ -7,7 +7,7 @@ import 'package:http_parser/http_parser.dart';
 class ApiService {
   // Base URL of your FastAPI server
   static const String baseUrl = 'http://localhost:8000';
-  static const String apiKey = 'supersecret123';
+  static const String apiKey = '##create your api key##';
 
   // Common headers
   static Map<String, String> get headers {
